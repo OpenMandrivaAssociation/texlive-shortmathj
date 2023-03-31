@@ -1,6 +1,6 @@
 Name:		texlive-shortmathj
 Version:	54407
-Release:	1
+Release:	2
 Summary:	Automatically shortify titles of mathematical journals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/shortmathj

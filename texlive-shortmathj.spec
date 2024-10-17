@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	Automatically shortify titles of mathematical journals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/shortmathj
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/shortmathj
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/shortmathj.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/shortmathj.doc.r%{version}.tar.xz
